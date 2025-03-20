@@ -1,0 +1,11 @@
+2025-03-20 19:50:57.912 [info] 
+
+
+
+
+2025-03-20 19:50:57.927 [info] Extension host agent started.
+2025-03-20 19:50:57.942 [info] Started initializing default profile extensions in extensions installation folder. file:///home/akshaycanodia/.codeoss/extensions
+2025-03-20 19:50:57.971 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/akshaycanodia/.codeoss/extensions
+2025-03-20 19:51:00.820 [info] [127.0.0.1][f2d37888][ManagementConnection] New connection established.
+2025-03-20 19:51:00.823 [info] [127.0.0.1][3615f91b][ExtensionHostConnection] New connection established.
+2025-03-20 19:51:02.452 [info] [127.0.0.1][3615f91b][ExtensionHostConnection] <1273> Launched Extension Host Process.
