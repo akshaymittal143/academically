@@ -1,0 +1,6 @@
+2025-03-20 20:29:33.362 [warning] Dir "/home/akshaycanodia/.pixi/envs" is not watchable (directory does not exist)
+2025-03-20 20:29:33.447 [info] Python interpreter path: /bin/python
+2025-03-20 20:29:33.522 [info] > pyenv which python
+2025-03-20 20:29:33.522 [info] cwd: .
+2025-03-20 20:29:34.710 [info] Starting Jedi language server for akshaycanodia.
+2025-03-20 20:34:07.749 [info] Discover tests for workspace name: akshaycanodia - uri: /home/akshaycanodia/aidemy-bootstrap/planner/book.py
